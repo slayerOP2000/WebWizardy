@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WebWizardy/static/css/main.7b509181.css",
+    "main.js": "/WebWizardy/static/js/main.3e57d6cd.js",
+    "index.html": "/WebWizardy/index.html",
+    "main.7b509181.css.map": "/WebWizardy/static/css/main.7b509181.css.map",
+    "main.3e57d6cd.js.map": "/WebWizardy/static/js/main.3e57d6cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b509181.css",
+    "static/js/main.3e57d6cd.js"
+  ]
+}
