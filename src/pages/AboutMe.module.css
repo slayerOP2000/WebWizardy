@@ -1,0 +1,61 @@
+.webwizardry {
+  position: absolute;
+  top: 57px;
+  left: 78px;
+}
+.aboutMe1,
+.skills {
+  position: absolute;
+  top: 53px;
+  left: 726px;
+  cursor: pointer;
+}
+.skills {
+  left: 873px;
+}
+.contact,
+.projects {
+  position: absolute;
+  top: 53px;
+  left: 973px;
+}
+.contact {
+  left: 1105px;
+  cursor: pointer;
+}
+.css3Foundations1 {
+  text-decoration: underline;
+}
+.css3Foundations {
+  color: inherit;
+}
+.iAmAFrontEndDeveloperWit {
+  margin: 0;
+}
+.iAmAContainer {
+  position: absolute;
+  top: 216px;
+  left: 78px;
+  color: inherit;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 1126px;
+  height: 356px;
+}
+.aboutAnuragSaxena {
+  position: absolute;
+  top: 127px;
+  left: 425px;
+  font-size: 40px;
+}
+.aboutMe {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
